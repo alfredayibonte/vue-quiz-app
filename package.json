@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "vue-quiz-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -37,7 +37,9 @@
     "parserOptions": {
       "parser": "babel-eslint"
     },
-    "rules": {}
+    "rules": {
+      "no-console": 0
+    }
   },
   "browserslist": [
     "> 1%",

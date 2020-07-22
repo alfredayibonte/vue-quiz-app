@@ -1,6 +1,6 @@
 # vue-quiz-app
 
-Tutorial on how to build a quiz app using vue
+Tutorial on how to build a quiz app using vue - freeCodeCamp.org
 
 ## Project setup
 ```
